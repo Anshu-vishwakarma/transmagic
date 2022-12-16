@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/transmagic/static/css/main.434f25a7.chunk.css",
+    "main.js": "/transmagic/static/js/main.671f7574.chunk.js",
+    "runtime-main.js": "/transmagic/static/js/runtime-main.5e524e3d.js",
+    "static/js/2.68cb9411.chunk.js": "/transmagic/static/js/2.68cb9411.chunk.js",
+    "static/js/3.fcb41acf.chunk.js": "/transmagic/static/js/3.fcb41acf.chunk.js",
+    "index.html": "/transmagic/index.html",
+    "static/js/2.68cb9411.chunk.js.LICENSE.txt": "/transmagic/static/js/2.68cb9411.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e524e3d.js",
+    "static/js/2.68cb9411.chunk.js",
+    "static/css/main.434f25a7.chunk.css",
+    "static/js/main.671f7574.chunk.js"
+  ]
+}
